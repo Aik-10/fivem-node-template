@@ -1,0 +1,18 @@
+{
+  "name": "node-template",
+  "version": "1.0.1",
+  "description": "Created by Lentokone  Discord <@228494142236393472>",
+  "author": "Lentokone",
+  "license": "ISC",
+  "dependencies": {
+    "@citizenfx/client": "^1.0.1383-1",
+    "@citizenfx/server": "^1.0.3114-1",
+    "@types/node": "^12.0.12",
+    "fivem-js": "^1.4.0",
+    "remove-files-webpack-plugin": "^1.4.4"
+  },
+  "devDependencies": {
+    "ts-loader": "^6.0.4",
+    "typescript": "^3.3.3333"
+  }
+}
